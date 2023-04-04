@@ -9,7 +9,7 @@ numbers, and see how the function handles them.
 
 While any form of testing library is allowed, jest is recommended.
 
-Write the test in the file "createTestTask.test.js".
+Write the test in the file "createTest.test.js".
 
 In order to run the test, first make sure jest is installed by running "npm install" in the terminal.
 
