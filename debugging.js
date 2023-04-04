@@ -3,7 +3,7 @@ In this task, a function that is described in detail below, does not work.
 
 Try to fix the bugs present in the function and get it to pass the 4 tests.
 
-To test the function, run the command "npm test debuggingTask" in the terminal.
+To test the function, run the command "npm test debugging" in the terminal.
 
 
           Given an array of integers called "nums" and an integer called "target",
