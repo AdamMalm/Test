@@ -1,0 +1,28 @@
+Respond to this email in an appropriate manner:
+
+    Dear [Your Name],
+
+    I hope this email finds you well. As your supervisor, I wanted to check in with you and 
+    get an update on the two tasks I assigned to you last week. Specifically, I am interested 
+    in the progress you have made on the test for price calculation and bug fixing for the twoSum 
+    function.
+
+    Can you please provide me with an update on the following:
+
+        Bug fixing for the twoSum function: Have you identified and fixed the bugs 
+        in the twoSum function? If not, what is the current status of the debugging 
+        process?
+
+        Developing the stock price function: Have you made any significant progress 
+        in developing the function? If so, please provide a brief summary of the work 
+        done so far.
+
+    If you require any support or assistance from the team, please do not hesitate 
+    to reach out.
+
+    I look forward to hearing back from you soon.
+
+    Best regards,
+    [Supervisor's Name]
+
+-------------------------------------------Provide the answer below-----------------------------------------

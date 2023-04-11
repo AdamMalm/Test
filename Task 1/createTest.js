@@ -13,7 +13,7 @@ Write the test in the file "createTest.test.js".
 
 In order to run the test, first make sure jest is installed by running "npm install" in the terminal.
 
-After installing jest, run the command "npm test createTestTask" in the terminal to run the test.
+After installing jest, run the command "npm test createTest" in the terminal to run the test.
 */
 
 function isNumber(value) {
