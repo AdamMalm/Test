@@ -13,8 +13,8 @@ Respond to this email in an appropriate manner:
         in the twoSum function? If not, what is the current status of the debugging 
         process?
 
-        Developing the stock price function: Have you made any significant progress 
-        in developing the function? If so, please provide a brief summary of the work 
+        Developing the test for the calculateTotalPrice function: Have you made any significant progress 
+        in developing the test? If so, please provide a brief summary of the work 
         done so far.
 
     If you require any support or assistance from the team, please do not hesitate 

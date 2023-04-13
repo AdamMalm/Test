@@ -16,16 +16,16 @@ In order to run the test, first make sure jest is installed by running "npm inst
 After installing jest, run the command "npm test createTest" in the terminal to run the test.
 */
 
-function isNumber(value) {
-  return typeof value === 'number' && !isNaN(value) && value !== null;
-}
-
 function calculateTotalPrice(price, quantity) {
   if (!isNumber(price) || !isNumber(quantity)) {
     return "Invalid input";
   }
   const totalPrice = price * quantity;
   return totalPrice;
+}
+
+function isNumber(value) {
+  return typeof value === 'number' && !isNaN(value) && value !== null;
 }
 
 module.exports = { calculateTotalPrice };
